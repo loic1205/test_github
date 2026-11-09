@@ -1,0 +1,11 @@
+Comment utiliser GitHub parce que je vais oublier :
+
+Shift+Right Click in folder
+Open git bash
+git status
+git add fichier.txt
+git commit -m "ajout de fichier.txt"
+git push
+
+Pour une nouvelle branche
+git checkout -b NouvelleBranche
